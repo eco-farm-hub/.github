@@ -19,16 +19,6 @@ We focus on engineering highly accessible, performance-driven software architect
 
 ---
 
-### Core Repositories
-
-| Repository | Focus Area | Primary Stack |
-| :--- | :--- | :--- |
-| **`bizventure-dashboard`** | Frontend architecture for the 40+ startup blueprint interface. | Next.js, TailwindCSS, TypeScript |
-| **`agritech-iot-firmware`** | Core automation logic and sensor arrays for smart farming pools and stables. | Python, C++, MQTT |
-| **`roi-calculator-india`** | Financial estimation engines localized for Indian raw material rates and subsidies. | JavaScript, Python |
-
----
-
 ### Join the Development Movement
 
 We believe top-tier engineering can emerge from anywhere—from deep rural villages to major tier-1 cities. We highly encourage community contributions:
