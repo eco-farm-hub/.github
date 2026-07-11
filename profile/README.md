@@ -2,7 +2,8 @@
 
 BizVenture is an open-source development hub and platform dedicated to empowering builders, developers, and small-scale founders across India. We build technical foundations, IoT smart farming modules, and localization engines tailored specifically for Indian economic conditions.
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c7ff0825-adf8-4046-a336-dba5e646b419" />
+<img width="1365" height="563" alt="bizventure-in-banner" src="https://github.com/user-attachments/assets/6a7041ee-9641-4a51-8ef3-353aff8f0f47" />
+
 
 [🌐 Explore Blueprints](#) • [💬 Join Our Community](#) • [✉️ Email Support](#)
 
